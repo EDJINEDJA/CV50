@@ -1,1 +1,1 @@
-from cv50.utils import utils
+from cv50.utils import WORKDIR
