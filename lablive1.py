@@ -110,7 +110,7 @@ if __name__ == "__main__":
 
     #Afficher les noyaux de convolution
 
-    #kernel(kernels)
+    kernel(kernels)
 
 
     #Afficher les images obtenues après la convolution
