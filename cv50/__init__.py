@@ -1,1 +1,1 @@
-from cv50.utils import WORKDIR
+from cv50.utils import WORKDIR, afficher_structure
